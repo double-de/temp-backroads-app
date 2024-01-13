@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import aboutImg from '../images/about.jpeg'
 import { Title } from './Title'
 
